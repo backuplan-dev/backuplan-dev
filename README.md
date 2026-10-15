@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d5bd9,100:3fd9b0&height=190&section=header&text=Harshavardhan%20Dasharadhi&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=System%20Analyst%20%C2%B7%20Cybersecurity%20%C2%B7%20AI%20Solutions%20Architect&descSize=16&descAlignY=58" width="100%" alt="Harshavardhan Dasharadhi" />
 
 <a href="https://harshavardhan.cc">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=3D5BD9&center=true&vCenter=true&width=640&lines=I+build+AI-native+apps+that+actually+ship.;Native+macOS+agents+%C2%B7+iOS+apps+%C2%B7+SaaS.;Secure+by+default+%E2%80%94+CompTIA+Security%2B.;4%2B+years+turning+messy+problems+into+systems." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=3FD9B0&center=true&vCenter=true&width=640&lines=I+build+AI-native+apps+that+actually+ship.;Native+macOS+agents+%C2%B7+iOS+apps+%C2%B7+SaaS.;Secure+by+default+%E2%80%94+CompTIA+Security%2B.;4%2B+years+turning+messy+problems+into+systems." alt="Typing intro" />
 </a>
 
 <p>
@@ -132,7 +132,7 @@ I build things end to end — product, design, code and launch. Lately that mean
 ### 📈 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=backuplan-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3d5bd9&icon_color=3fd9b0&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=backuplan-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7aa2ff&icon_color=3fd9b0&text_color=c9d1d9" />
   <img height="165" src="https://streak-stats.demolab.com?user=backuplan-dev&hide_border=true&background=0d1117&ring=3d5bd9&fire=3fd9b0&currStreakLabel=3fd9b0&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 <p align="center">
